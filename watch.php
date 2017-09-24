@@ -8,8 +8,8 @@ $watcher =  new Watcher();
 $notifier = new Notification();
 $watcher->watchPath($path);
 
-$sender_email = "avoseh.pedetin@gmail.com";
-$sender_password = "25031994";
+$sender_email = "<sender_email>";
+$sender_password = "<sender_password>";
 
 $admins = array("<email1>"=> "<phonenumber>", "<email2>" => "<phonenumber>");
 
