@@ -11,7 +11,7 @@ $watcher->watchPath($path);
 $sender_email = "avoseh.pedetin@gmail.com";
 $sender_password = "25031994";
 
-$admins = array("avoseh.pedetin@gmail.com"=> "07032148388", "timotewpeters@gmail.com" => "08035387514");
+$admins = array("<email1>"=> "<phonenumber>", "<email2>" => "<phonenumber>");
 
 
 $note = function() use ($notifier, $admins, $sender_email, $sender_password) {
